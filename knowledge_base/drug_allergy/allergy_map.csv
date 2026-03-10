@@ -1,0 +1,171 @@
+patient_allergy_text,allergy_class
+penicillin,penicillin
+penicillin (substance),penicillin
+penicillin allergy,penicillin
+amoxicillin,penicillin
+ampicillin,penicillin
+penicillin g,penicillin
+penicillin v,penicillin
+cephalosporin,cephalosporin
+cephalosporin (substance),cephalosporin
+cephalexin,cephalosporin
+cefazolin,cephalosporin
+ceftriaxone,cephalosporin
+beta-lactam,penicillin
+beta-lactam antibiotic,penicillin
+sulfonamide,sulfonamide
+sulfa,sulfonamide
+sulfa drug,sulfonamide
+sulfonamide antibiotic,sulfonamide
+trimethoprim-sulfamethoxazole,sulfonamide
+sulfamethoxazole,sulfonamide
+aspirin,aspirin
+aspirin (substance),aspirin
+acetylsalicylic acid,aspirin
+nsaid,NSAID
+non-steroidal anti-inflammatory,NSAID
+ibuprofen,NSAID
+naproxen,NSAID
+diclofenac,NSAID
+opioid,opioid
+opioid (substance),opioid
+morphine,opioid
+codeine,opioid
+hydrocodone,opioid
+oxycodone,opioid
+fentanyl,opioid
+tramadol,opioid
+narcotic,opioid
+statin,statin
+hmg-coa reductase inhibitor,statin
+simvastatin,statin
+atorvastatin,statin
+rosuvastatin,statin
+ace inhibitor,ACE-inhibitor
+ace-inhibitor,ACE-inhibitor
+angiotensin converting enzyme inhibitor,ACE-inhibitor
+lisinopril,ACE-inhibitor
+enalapril,ACE-inhibitor
+ramipril,ACE-inhibitor
+iodinated contrast,iodinated-contrast
+contrast dye,iodinated-contrast
+contrast media,iodinated-contrast
+iodinated contrast media,iodinated-contrast
+radiocontrast,iodinated-contrast
+ct contrast,iodinated-contrast
+gadolinium,gadolinium-contrast
+gadolinium contrast,gadolinium-contrast
+mri contrast,gadolinium-contrast
+fluoroquinolone,fluoroquinolone
+quinolone,fluoroquinolone
+ciprofloxacin,fluoroquinolone
+levofloxacin,fluoroquinolone
+vancomycin,glycopeptide
+glycopeptide,glycopeptide
+aminoglycoside,aminoglycoside
+gentamicin,aminoglycoside
+tobramycin,aminoglycoside
+amikacin,aminoglycoside
+macrolide,macrolide
+azithromycin,macrolide
+erythromycin,macrolide
+clarithromycin,macrolide
+tetracycline,tetracycline
+doxycycline,tetracycline
+minocycline,tetracycline
+local anesthetic,amide-local-anesthetic
+amide local anesthetic,amide-local-anesthetic
+lidocaine,amide-local-anesthetic
+bupivacaine,amide-local-anesthetic
+ester local anesthetic,ester-local-anesthetic
+procaine,ester-local-anesthetic
+benzocaine,ester-local-anesthetic
+latex,latex
+latex (substance),latex
+natural rubber latex,latex
+rubber,latex
+bee venom,bee-venom
+bee venom (substance),bee-venom
+bee sting,bee-venom
+bee allergy,bee-venom
+wasp venom,wasp-venom
+wasp venom (substance),wasp-venom
+wasp sting,wasp-venom
+hymenoptera venom,bee-venom
+insect venom,bee-venom
+egg,egg
+egg (substance),egg
+egg allergy,egg
+egg protein,egg
+peanut,peanut
+peanut (substance),peanut
+peanut allergy,peanut
+groundnut,peanut
+tree nut,tree nut
+tree nut (substance),tree nut
+nut allergy,tree nut
+shellfish,shellfish
+shellfish (substance),shellfish
+crustacean,shellfish
+wheat,wheat
+wheat (substance),wheat
+gluten,wheat
+cow's milk,cow's milk
+cow's milk (substance),cow's milk
+milk,cow's milk
+dairy,cow's milk
+milk protein,cow's milk
+house dust mite,house dust mite
+house dust mite (organism),house dust mite
+dust mite,house dust mite
+mold,mold
+mold (organism),mold
+mould,mold
+fungal allergy,mold
+animal dander,animal dander
+animal dander (substance),animal dander
+pet dander,animal dander
+cat dander,animal dander
+dog dander,animal dander
+tree pollen,tree pollen
+tree pollen (substance),tree pollen
+grass pollen,grass pollen
+grass pollen (substance),grass pollen
+pollen,tree pollen
+heparin,heparin
+heparin (substance),heparin
+low molecular weight heparin,low-molecular-weight-heparin
+lmwh,low-molecular-weight-heparin
+enoxaparin,low-molecular-weight-heparin
+insulin,insulin
+insulin (substance),insulin
+corticosteroid,corticosteroid
+steroid,corticosteroid
+methylprednisolone,corticosteroid
+hydrocortisone,corticosteroid
+chlorhexidine,chlorhexidine
+chlorhexidine (substance),chlorhexidine
+carbamazepine,aromatic-anticonvulsant
+phenytoin,aromatic-anticonvulsant
+aromatic anticonvulsant,aromatic-anticonvulsant
+allopurinol,xanthine-oxidase-inhibitor
+methotrexate,antifolate
+azathioprine,thiopurine
+thiopurine,thiopurine
+taxane,taxane
+paclitaxel,taxane
+docetaxel,taxane
+platinum,platinum
+carboplatin,platinum
+cisplatin,platinum
+oxaliplatin,platinum
+polyethylene glycol,polyethylene-glycol
+peg,polyethylene-glycol
+polysorbate,polysorbate
+polysorbate 80,polysorbate
+gelatin,gelatin
+gelatin (substance),gelatin
+abacavir,HLA-B5701
+nevirapine,HLA-B5701
+allergic disposition (finding),SKIP
+allergic disposition,SKIP

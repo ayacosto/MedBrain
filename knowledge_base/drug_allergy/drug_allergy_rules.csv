@@ -1,0 +1,293 @@
+ingredient,allergy_class,severity,cross_react_class,clinical_source
+amoxicillin,penicillin,Major,beta-lactam,FDA label / NIAID 2010 Guidelines
+ampicillin,penicillin,Major,beta-lactam,FDA label / NIAID 2010 Guidelines
+piperacillin,penicillin,Major,beta-lactam,FDA label / NIAID 2010 Guidelines
+oxacillin,penicillin,Major,beta-lactam,FDA label / NIAID 2010 Guidelines
+nafcillin,penicillin,Major,beta-lactam,FDA label / NIAID 2010 Guidelines
+dicloxacillin,penicillin,Major,beta-lactam,FDA label / NIAID 2010 Guidelines
+cloxacillin,penicillin,Major,beta-lactam,FDA label / NIAID 2010 Guidelines
+amoxicillin-clavulanate,penicillin,Major,beta-lactam,FDA label / NIAID 2010 Guidelines
+ampicillin-sulbactam,penicillin,Major,beta-lactam,FDA label / NIAID 2010 Guidelines
+piperacillin-tazobactam,penicillin,Major,beta-lactam,FDA label / NIAID 2010 Guidelines
+ticarcillin-clavulanate,penicillin,Major,beta-lactam,FDA label / NIAID 2010 Guidelines
+cephalexin,penicillin,Moderate,beta-lactam,AAAAI/ACAAI 2014 Practice Parameter
+cefazolin,penicillin,Moderate,beta-lactam,AAAAI/ACAAI 2014 Practice Parameter
+cefadroxil,penicillin,Moderate,beta-lactam,AAAAI/ACAAI 2014 Practice Parameter
+cefuroxime,penicillin,Moderate,beta-lactam,AAAAI/ACAAI 2014 Practice Parameter
+cefprozil,penicillin,Moderate,beta-lactam,AAAAI/ACAAI 2014 Practice Parameter
+cefaclor,penicillin,Moderate,beta-lactam,AAAAI/ACAAI 2014 Practice Parameter
+cefdinir,penicillin,Moderate,beta-lactam,AAAAI/ACAAI 2014 Practice Parameter
+cefixime,penicillin,Moderate,beta-lactam,AAAAI/ACAAI 2014 Practice Parameter
+cefpodoxime,penicillin,Moderate,beta-lactam,AAAAI/ACAAI 2014 Practice Parameter
+ceftriaxone,penicillin,Moderate,beta-lactam,AAAAI/ACAAI 2014 Practice Parameter
+cefotaxime,penicillin,Moderate,beta-lactam,AAAAI/ACAAI 2014 Practice Parameter
+ceftazidime,penicillin,Moderate,beta-lactam,AAAAI/ACAAI 2014 Practice Parameter
+cefepime,penicillin,Moderate,beta-lactam,AAAAI/ACAAI 2014 Practice Parameter
+ceftaroline,penicillin,Moderate,beta-lactam,AAAAI/ACAAI 2014 Practice Parameter
+cefoxitin,penicillin,Moderate,beta-lactam,AAAAI/ACAAI 2014 Practice Parameter
+cefotetan,penicillin,Moderate,beta-lactam,AAAAI/ACAAI 2014 Practice Parameter
+meropenem,penicillin,Moderate,beta-lactam,AAAAI/ACAAI 2014 Practice Parameter
+imipenem-cilastatin,penicillin,Moderate,beta-lactam,AAAAI/ACAAI 2014 Practice Parameter
+ertapenem,penicillin,Moderate,beta-lactam,AAAAI/ACAAI 2014 Practice Parameter
+doripenem,penicillin,Moderate,beta-lactam,AAAAI/ACAAI 2014 Practice Parameter
+aztreonam,penicillin,Minor,beta-lactam,FDA label / AAAAI 2014
+cephalexin,cephalosporin,Major,beta-lactam,FDA label / AAAAI/ACAAI 2014
+cefazolin,cephalosporin,Major,beta-lactam,FDA label / AAAAI/ACAAI 2014
+cefadroxil,cephalosporin,Major,beta-lactam,FDA label / AAAAI/ACAAI 2014
+cefuroxime,cephalosporin,Major,beta-lactam,FDA label / AAAAI/ACAAI 2014
+cefprozil,cephalosporin,Major,beta-lactam,FDA label / AAAAI/ACAAI 2014
+cefaclor,cephalosporin,Major,beta-lactam,FDA label / AAAAI/ACAAI 2014
+cefdinir,cephalosporin,Major,beta-lactam,FDA label / AAAAI/ACAAI 2014
+cefixime,cephalosporin,Major,beta-lactam,FDA label / AAAAI/ACAAI 2014
+cefpodoxime,cephalosporin,Major,beta-lactam,FDA label / AAAAI/ACAAI 2014
+ceftriaxone,cephalosporin,Major,beta-lactam,FDA label / AAAAI/ACAAI 2014
+cefotaxime,cephalosporin,Major,beta-lactam,FDA label / AAAAI/ACAAI 2014
+ceftazidime,cephalosporin,Major,beta-lactam,FDA label / AAAAI/ACAAI 2014
+cefepime,cephalosporin,Major,beta-lactam,FDA label / AAAAI/ACAAI 2014
+ceftaroline,cephalosporin,Major,beta-lactam,FDA label / AAAAI/ACAAI 2014
+cefoxitin,cephalosporin,Major,beta-lactam,FDA label / AAAAI/ACAAI 2014
+cefotetan,cephalosporin,Major,beta-lactam,FDA label / AAAAI/ACAAI 2014
+meropenem,cephalosporin,Moderate,beta-lactam,AAAAI/ACAAI 2014 Practice Parameter
+imipenem-cilastatin,cephalosporin,Moderate,beta-lactam,AAAAI/ACAAI 2014 Practice Parameter
+ertapenem,cephalosporin,Moderate,beta-lactam,AAAAI/ACAAI 2014 Practice Parameter
+amoxicillin,cephalosporin,Moderate,beta-lactam,AAAAI/ACAAI 2014 Practice Parameter
+ampicillin,cephalosporin,Moderate,beta-lactam,AAAAI/ACAAI 2014 Practice Parameter
+sulfamethoxazole,sulfonamide,Major,sulfonamide-antibiotic,FDA label / WHO Essential Medicines
+sulfadiazine,sulfonamide,Major,sulfonamide-antibiotic,FDA label / WHO Essential Medicines
+sulfasalazine,sulfonamide,Major,sulfonamide-antibiotic,FDA label / WHO Essential Medicines
+sulfisoxazole,sulfonamide,Major,sulfonamide-antibiotic,FDA label / WHO Essential Medicines
+trimethoprim-sulfamethoxazole,sulfonamide,Major,sulfonamide-antibiotic,FDA label / WHO Essential Medicines
+dapsone,sulfonamide,Moderate,sulfonamide-antibiotic,FDA label / Lexi-Comp Clinical Evidence
+celecoxib,sulfonamide,Moderate,sulfonamide-nonantibiotic,FDA label / NEJM 2001 (Strom et al.)
+furosemide,sulfonamide,Minor,sulfonamide-nonantibiotic,FDA label / Br J Clin Pharmacol 2003
+hydrochlorothiazide,sulfonamide,Minor,sulfonamide-nonantibiotic,FDA label / Br J Clin Pharmacol 2003
+chlorthalidone,sulfonamide,Minor,sulfonamide-nonantibiotic,FDA label
+indapamide,sulfonamide,Minor,sulfonamide-nonantibiotic,FDA label
+acetazolamide,sulfonamide,Minor,sulfonamide-nonantibiotic,FDA label
+probenecid,sulfonamide,Minor,sulfonamide-nonantibiotic,FDA label
+ibuprofen,aspirin,Major,NSAID,FDA label / Samter Triad AAAAI Guideline 2013
+naproxen,aspirin,Major,NSAID,FDA label / AAAAI Guideline 2013
+ketoprofen,aspirin,Major,NSAID,FDA label / AAAAI Guideline 2013
+ketorolac,aspirin,Major,NSAID,FDA label / AAAAI Guideline 2013
+indomethacin,aspirin,Major,NSAID,FDA label / AAAAI Guideline 2013
+diclofenac,aspirin,Major,NSAID,FDA label / AAAAI Guideline 2013
+meloxicam,aspirin,Moderate,NSAID,FDA label / AAAAI Guideline 2013
+piroxicam,aspirin,Moderate,NSAID,FDA label / AAAAI Guideline 2013
+etodolac,aspirin,Moderate,NSAID,FDA label
+nabumetone,aspirin,Moderate,NSAID,FDA label
+celecoxib,aspirin,Minor,NSAID-COX2-selective,FDA label / Annals Allergy 2001
+aspirin,aspirin,Major,NSAID,FDA label / WHO Essential Medicines
+ibuprofen,NSAID,Major,NSAID,FDA label / AAAAI Guideline 2013
+naproxen,NSAID,Major,NSAID,FDA label / AAAAI Guideline 2013
+ketoprofen,NSAID,Major,NSAID,FDA label
+ketorolac,NSAID,Major,NSAID,FDA label
+indomethacin,NSAID,Major,NSAID,FDA label
+diclofenac,NSAID,Major,NSAID,FDA label
+meloxicam,NSAID,Moderate,NSAID,FDA label
+sulindac,NSAID,Moderate,NSAID,FDA label
+etodolac,NSAID,Moderate,NSAID,FDA label
+piroxicam,NSAID,Moderate,NSAID,FDA label
+nabumetone,NSAID,Moderate,NSAID,FDA label
+celecoxib,NSAID,Minor,NSAID,FDA label
+morphine,opioid,Major,opioid,FDA label / Anesthesiology 2003
+codeine,opioid,Major,opioid,FDA label
+hydrocodone,opioid,Major,opioid,FDA label
+oxycodone,opioid,Major,opioid,FDA label
+hydromorphone,opioid,Major,opioid,FDA label
+oxymorphone,opioid,Major,opioid,FDA label
+fentanyl,opioid,Major,opioid,FDA label
+meperidine,opioid,Major,opioid,FDA label
+tramadol,opioid,Moderate,opioid,FDA label / Clin Drug Investig 2010
+buprenorphine,opioid,Moderate,opioid,FDA label
+methadone,opioid,Moderate,opioid,FDA label
+nalbuphine,opioid,Moderate,opioid,FDA label
+butorphanol,opioid,Moderate,opioid,FDA label
+tapentadol,opioid,Moderate,opioid,FDA label
+atorvastatin,statin,Major,statin,FDA label / JACC 2019
+simvastatin,statin,Major,statin,FDA label / JACC 2019
+rosuvastatin,statin,Major,statin,FDA label / JACC 2019
+pravastatin,statin,Moderate,statin,FDA label / JACC 2019
+lovastatin,statin,Moderate,statin,FDA label
+fluvastatin,statin,Moderate,statin,FDA label
+pitavastatin,statin,Moderate,statin,FDA label
+lisinopril,ACE-inhibitor,Major,ACE-inhibitor,FDA label / AHA/ACC Hypertension Guidelines 2017
+enalapril,ACE-inhibitor,Major,ACE-inhibitor,FDA label / AHA/ACC 2017
+ramipril,ACE-inhibitor,Major,ACE-inhibitor,FDA label / AHA/ACC 2017
+captopril,ACE-inhibitor,Major,ACE-inhibitor,FDA label / AHA/ACC 2017
+benazepril,ACE-inhibitor,Major,ACE-inhibitor,FDA label / AHA/ACC 2017
+fosinopril,ACE-inhibitor,Major,ACE-inhibitor,FDA label / AHA/ACC 2017
+quinapril,ACE-inhibitor,Major,ACE-inhibitor,FDA label / AHA/ACC 2017
+perindopril,ACE-inhibitor,Major,ACE-inhibitor,FDA label / AHA/ACC 2017
+trandolapril,ACE-inhibitor,Major,ACE-inhibitor,FDA label / AHA/ACC 2017
+moexipril,ACE-inhibitor,Major,ACE-inhibitor,FDA label
+lisinopril,ACE-inhibitor-angioedema,Major,ACE-inhibitor,FDA label / NEJM 2004
+enalapril,ACE-inhibitor-angioedema,Major,ACE-inhibitor,FDA label / NEJM 2004
+ramipril,ACE-inhibitor-angioedema,Major,ACE-inhibitor,FDA label / NEJM 2004
+captopril,ACE-inhibitor-angioedema,Major,ACE-inhibitor,FDA label / NEJM 2004
+iohexol,iodinated-contrast,Major,iodinated-contrast,ACR Manual on Contrast Media 2022
+iopamidol,iodinated-contrast,Major,iodinated-contrast,ACR Manual on Contrast Media 2022
+iodixanol,iodinated-contrast,Major,iodinated-contrast,ACR Manual on Contrast Media 2022
+ioversol,iodinated-contrast,Major,iodinated-contrast,ACR Manual on Contrast Media 2022
+iopromide,iodinated-contrast,Major,iodinated-contrast,ACR Manual on Contrast Media 2022
+iobitridol,iodinated-contrast,Major,iodinated-contrast,ACR Manual on Contrast Media 2022
+iomeprol,iodinated-contrast,Major,iodinated-contrast,ACR Manual on Contrast Media 2022
+gadopentetate,gadolinium-contrast,Moderate,gadolinium-contrast,ACR Manual on Contrast Media 2022
+gadobutrol,gadolinium-contrast,Moderate,gadolinium-contrast,ACR Manual on Contrast Media 2022
+gadoteridol,gadolinium-contrast,Moderate,gadolinium-contrast,ACR Manual on Contrast Media 2022
+gadodiamide,gadolinium-contrast,Moderate,gadolinium-contrast,ACR Manual on Contrast Media 2022
+ciprofloxacin,fluoroquinolone,Major,fluoroquinolone,FDA label / AAAAI 2014
+levofloxacin,fluoroquinolone,Major,fluoroquinolone,FDA label / AAAAI 2014
+moxifloxacin,fluoroquinolone,Major,fluoroquinolone,FDA label / AAAAI 2014
+ofloxacin,fluoroquinolone,Major,fluoroquinolone,FDA label / AAAAI 2014
+norfloxacin,fluoroquinolone,Major,fluoroquinolone,FDA label
+gemifloxacin,fluoroquinolone,Major,fluoroquinolone,FDA label
+delafloxacin,fluoroquinolone,Major,fluoroquinolone,FDA label
+vancomycin,glycopeptide,Major,glycopeptide,FDA label / ASHP Guidelines
+teicoplanin,glycopeptide,Major,glycopeptide,FDA label
+oritavancin,glycopeptide,Moderate,glycopeptide,FDA label
+dalbavancin,glycopeptide,Moderate,glycopeptide,FDA label
+gentamicin,aminoglycoside,Major,aminoglycoside,FDA label / IDSA Guidelines
+tobramycin,aminoglycoside,Major,aminoglycoside,FDA label / IDSA Guidelines
+amikacin,aminoglycoside,Major,aminoglycoside,FDA label / IDSA Guidelines
+neomycin,aminoglycoside,Major,aminoglycoside,FDA label
+streptomycin,aminoglycoside,Moderate,aminoglycoside,FDA label
+carbamazepine,aromatic-anticonvulsant,Major,aromatic-anticonvulsant,FDA label / HLA-B1502 CPIC Guideline 2013
+phenytoin,aromatic-anticonvulsant,Major,aromatic-anticonvulsant,FDA label / CPIC Guideline 2013
+fosphenytoin,aromatic-anticonvulsant,Major,aromatic-anticonvulsant,FDA label / CPIC Guideline 2013
+phenobarbital,aromatic-anticonvulsant,Major,aromatic-anticonvulsant,FDA label / CPIC Guideline 2013
+lamotrigine,aromatic-anticonvulsant,Major,aromatic-anticonvulsant,FDA label / CPIC Guideline 2013
+oxcarbazepine,aromatic-anticonvulsant,Major,aromatic-anticonvulsant,FDA label / CPIC Guideline 2013
+allopurinol,xanthine-oxidase-inhibitor,Major,allopurinol,FDA label / HLA-B5801 CPIC Guideline 2015
+febuxostat,xanthine-oxidase-inhibitor,Moderate,allopurinol,FDA label
+methotrexate,antifolate,Major,antifolate,FDA label / WHO Essential Medicines
+azathioprine,thiopurine,Major,thiopurine,FDA label / TPMT CPIC Guideline 2018
+mercaptopurine,thiopurine,Major,thiopurine,FDA label / TPMT CPIC Guideline 2018
+thioguanine,thiopurine,Major,thiopurine,FDA label / CPIC Guideline 2018
+rituximab,monoclonal-antibody,Major,anti-CD20,FDA label / Onco prescribing info
+cetuximab,monoclonal-antibody,Major,anti-EGFR,FDA label / JACI 2008
+paclitaxel,taxane,Major,taxane,FDA label / Oncology guidelines
+docetaxel,taxane,Major,taxane,FDA label / Oncology guidelines
+carboplatin,platinum,Major,platinum,FDA label / Oncology guidelines
+cisplatin,platinum,Major,platinum,FDA label / Oncology guidelines
+oxaliplatin,platinum,Major,platinum,FDA label / Oncology guidelines
+latex,latex,Major,latex,FDA Safety Communication 2014 / AAAAI Latex Guidelines
+succinylcholine,neuromuscular-blocker,Major,neuromuscular-blocker,FDA label / Anesthesia allergy guidelines
+rocuronium,neuromuscular-blocker,Major,neuromuscular-blocker,FDA label / SFAR 2011
+vecuronium,neuromuscular-blocker,Major,neuromuscular-blocker,FDA label / SFAR 2011
+atracurium,neuromuscular-blocker,Major,neuromuscular-blocker,FDA label / SFAR 2011
+cisatracurium,neuromuscular-blocker,Moderate,neuromuscular-blocker,FDA label
+pancuronium,neuromuscular-blocker,Moderate,neuromuscular-blocker,FDA label
+propofol,soy-egg,Major,soy-egg,FDA label (contains soybean / egg lecithin)
+propofol,peanut,Major,soy-egg,FDA label (contains soybean / egg lecithin)
+chlorhexidine,chlorhexidine,Major,chlorhexidine,FDA Safety Alert 2017 / AAAAI
+benzalkonium-chloride,quaternary-ammonium,Major,quaternary-ammonium,FDA label
+insulin,insulin,Major,insulin,FDA label / ADA Standards of Care 2023
+glargine,insulin,Major,insulin,FDA label
+detemir,insulin,Major,insulin,FDA label
+lispro,insulin,Major,insulin,FDA label
+aspart,insulin,Major,insulin,FDA label
+heparin,heparin,Major,heparin,FDA label / HIT ACCP Guidelines 2012
+enoxaparin,low-molecular-weight-heparin,Major,heparin,FDA label / ACCP 2012
+dalteparin,low-molecular-weight-heparin,Major,heparin,FDA label / ACCP 2012
+fondaparinux,low-molecular-weight-heparin,Minor,heparin,FDA label (structurally distinct)
+protamine,protamine,Major,protamine,FDA label / fish-allergy association
+warfarin,coumarin,Moderate,coumarin,FDA label
+acetaminophen,acetaminophen,Major,acetaminophen,FDA label (rare anaphylaxis reported)
+methylprednisolone,corticosteroid,Major,corticosteroid,FDA label
+hydrocortisone,corticosteroid,Major,corticosteroid,FDA label
+dexamethasone,corticosteroid,Moderate,corticosteroid,FDA label
+prednisone,corticosteroid,Moderate,corticosteroid,FDA label
+budesonide,corticosteroid,Minor,corticosteroid,FDA label
+fluticasone,corticosteroid,Minor,corticosteroid,FDA label
+lidocaine,amide-local-anesthetic,Major,amide-local-anesthetic,FDA label / AAAAI 2014
+bupivacaine,amide-local-anesthetic,Major,amide-local-anesthetic,FDA label / AAAAI 2014
+ropivacaine,amide-local-anesthetic,Major,amide-local-anesthetic,FDA label / AAAAI 2014
+mepivacaine,amide-local-anesthetic,Major,amide-local-anesthetic,FDA label / AAAAI 2014
+procaine,ester-local-anesthetic,Major,ester-local-anesthetic,FDA label / AAAAI 2014
+benzocaine,ester-local-anesthetic,Major,ester-local-anesthetic,FDA label / AAAAI 2014
+tetracaine,ester-local-anesthetic,Major,ester-local-anesthetic,FDA label / AAAAI 2014
+chloroprocaine,ester-local-anesthetic,Major,ester-local-anesthetic,FDA label / AAAAI 2014
+diphenhydramine,antihistamine,Minor,antihistamine,FDA label
+promethazine,antihistamine,Minor,antihistamine,FDA label
+hydroxyzine,antihistamine,Minor,antihistamine,FDA label
+azithromycin,macrolide,Major,macrolide,FDA label / AAAAI 2014
+erythromycin,macrolide,Major,macrolide,FDA label / AAAAI 2014
+clarithromycin,macrolide,Major,macrolide,FDA label / AAAAI 2014
+clindamycin,lincosamide,Major,lincosamide,FDA label
+doxycycline,tetracycline,Major,tetracycline,FDA label / AAAAI 2014
+minocycline,tetracycline,Major,tetracycline,FDA label / AAAAI 2014
+tetracycline,tetracycline,Major,tetracycline,FDA label
+nitrofurantoin,nitrofuran,Major,nitrofuran,FDA label
+metronidazole,nitroimidazole,Major,nitroimidazole,FDA label
+linezolid,oxazolidinone,Moderate,oxazolidinone,FDA label
+rifampin,rifamycin,Moderate,rifamycin,FDA label / WHO TB Guidelines
+isoniazid,hydrazide,Major,hydrazide,FDA label / WHO TB Guidelines
+ethambutol,ethambutol,Moderate,ethambutol,FDA label
+pyrazinamide,pyrazinamide,Moderate,pyrazinamide,FDA label
+fluconazole,triazole,Major,triazole-antifungal,FDA label / IDSA Fungal Guidelines
+voriconazole,triazole,Major,triazole-antifungal,FDA label / IDSA Fungal Guidelines
+itraconazole,triazole,Major,triazole-antifungal,FDA label / IDSA Fungal Guidelines
+posaconazole,triazole,Major,triazole-antifungal,FDA label
+isavuconazole,triazole,Major,triazole-antifungal,FDA label
+amphotericin B,polyene-antifungal,Major,polyene-antifungal,FDA label / IDSA 2016
+caspofungin,echinocandin,Moderate,echinocandin,FDA label / IDSA 2016
+micafungin,echinocandin,Moderate,echinocandin,FDA label
+anidulafungin,echinocandin,Moderate,echinocandin,FDA label
+acyclovir,nucleoside-antiviral,Moderate,nucleoside-antiviral,FDA label
+valacyclovir,nucleoside-antiviral,Moderate,nucleoside-antiviral,FDA label
+ganciclovir,nucleoside-antiviral,Moderate,nucleoside-antiviral,FDA label
+oseltamivir,neuraminidase-inhibitor,Minor,neuraminidase-inhibitor,FDA label
+bee-venom-immunotherapy,bee-venom,Major,hymenoptera-venom,FDA label / AAAAI Venom Immunotherapy 2017
+wasp-venom-immunotherapy,wasp-venom,Major,hymenoptera-venom,FDA label / AAAAI Venom Immunotherapy 2017
+epinephrine,epinephrine,Minor,catecholamine,FDA label (contains bisulfite preservative risk in sulfite-allergic)
+adenosine,adenosine,Moderate,adenosine,FDA label
+atropine,anticholinergic,Minor,anticholinergic,FDA label
+neostigmine,cholinesterase-inhibitor,Minor,cholinesterase-inhibitor,FDA label
+acetylcysteine,mucolytic,Moderate,mucolytic,FDA label
+theophylline,methylxanthine,Moderate,methylxanthine,FDA label
+montelukast,leukotriene-modifier,Minor,leukotriene-modifier,FDA label
+omalizumab,anti-IgE,Moderate,monoclonal-antibody,FDA label
+dupilumab,anti-IL-4/13,Minor,monoclonal-antibody,FDA label
+mepolizumab,anti-IL-5,Minor,monoclonal-antibody,FDA label
+benralizumab,anti-IL-5R,Minor,monoclonal-antibody,FDA label
+tezepelumab,anti-TSLP,Minor,monoclonal-antibody,FDA label
+adalimumab,anti-TNF,Major,anti-TNF,FDA label
+infliximab,anti-TNF,Major,anti-TNF,FDA label
+etanercept,anti-TNF,Moderate,anti-TNF,FDA label
+abciximab,glycoprotein-IIb-IIIa-inhibitor,Major,glycoprotein-IIb-IIIa-inhibitor,FDA label
+eptifibatide,glycoprotein-IIb-IIIa-inhibitor,Major,glycoprotein-IIb-IIIa-inhibitor,FDA label
+tirofiban,glycoprotein-IIb-IIIa-inhibitor,Moderate,glycoprotein-IIb-IIIa-inhibitor,FDA label
+streptokinase,thrombolytic,Major,thrombolytic,FDA label / streptococcal cross-reactivity
+alteplase,thrombolytic,Moderate,thrombolytic,FDA label
+mannitol,osmotic-agent,Moderate,osmotic-agent,FDA label
+povidone-iodine,iodine,Major,iodine-topical,FDA label
+potassium-iodide,iodine,Major,iodine,FDA label
+methylparaben,paraben,Major,paraben-preservative,FDA label / Contact Dermatitis 2009
+propylparaben,paraben,Major,paraben-preservative,FDA label
+polyethylene-glycol,polyethylene-glycol,Major,polyethylene-glycol,FDA Safety Communication 2021
+polysorbate-80,polysorbate,Major,polysorbate,FDA label / JACI 2021
+carboxymethylcellulose,cellulose-derivative,Moderate,cellulose-derivative,FDA label
+gelatin,gelatin,Major,gelatin,FDA label / JACI 2018
+dextran,dextran,Major,dextran,FDA label
+albumin,albumin,Major,albumin,FDA label
+hydroxymethyl-starch,colloid,Major,colloid,FDA label
+gadopentetate,gadolinium-contrast,Major,gadolinium-contrast,ACR 2022
+gadobenate,gadolinium-contrast,Major,gadolinium-contrast,ACR 2022
+interferon-alfa,interferon,Moderate,interferon,FDA label
+peginterferon-alfa,interferon,Moderate,interferon,FDA label
+propofol,egg,Major,egg,FDA label (contains egg lecithin)
+propofol,soy,Major,soy,FDA label (contains soybean oil)
+amphotericin B,mold,Minor,polyene-antifungal,Cross-reactivity theoretical / IDSA
+latex,latex,Major,latex,FDA 2014 / AAAAI Latex Guidelines
+succinylcholine,latex,Moderate,neuromuscular-blocker,SFAR 2011 / Anesthesia guidelines
+atracurium,latex,Moderate,neuromuscular-blocker,SFAR 2011
+thiopental,latex,Moderate,barbiturate,SFAR 2011
+penicillin-V,mold,Minor,penicillin,AAAAI
+penicillin-G,mold,Minor,penicillin,AAAAI
+penicillin-G,penicillin,Major,beta-lactam,FDA label / NIAID 2010 Guidelines
+penicillin-V,penicillin,Major,beta-lactam,FDA label / NIAID 2010 Guidelines
+aztreonam,cephalosporin,Moderate,beta-lactam,AAAAI 2014 (ceftazidime side-chain cross-react)
+ceftazidime,aztreonam,Moderate,beta-lactam,AAAAI 2014 (shared side chain)
+abacavir,HLA-B5701,Major,NRTI,CPIC Abacavir Guideline 2012 / FDA label
+carbamazepine,HLA-B1502,Major,aromatic-anticonvulsant,CPIC Carbamazepine Guideline 2013 / FDA label
+allopurinol,HLA-B5801,Major,xanthine-oxidase-inhibitor,CPIC Allopurinol Guideline 2015 / FDA label
